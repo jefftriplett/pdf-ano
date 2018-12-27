@@ -1,0 +1,3 @@
+docopt
+pdfminer
+git+https://github.com/pdfminer/pdfminer.six
